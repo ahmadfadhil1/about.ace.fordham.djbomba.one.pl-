@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://about.ace.fordham.djbomba.one.pl/sitemap.xml
